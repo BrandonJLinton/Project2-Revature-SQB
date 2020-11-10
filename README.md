@@ -6,17 +6,17 @@
 Get a specified region to look at and follow a twitter account that tweets out traffic updates. We would filter by location, the type of update (accident, construction, etc), and its severity( rush hour timing). To make it presentable we can then have an image of that region and deploy a grid system on that image.the locations of that region we specify a point (x,y) coordinate. As soon as the tweet mentions something about that location it will receive a custom dot depending on type and severity. Each dot will be color coded depending on the type. Dot’s size shows severity. We can keep track for one day then reset the map.
 
 Assumptions:
-Having a specific region (NYC)
-Day by day analysis (24 hr period)
-Assuming disabled vehicles aren’t considered accidents
+- Having a specific region (NYC)
+- Day by day analysis (24 hr period)
+- Assuming disabled vehicles aren’t considered accidents
 
 Sample Questions:
-Most occurrences of accidents by time
-Most occurences of accidents by streets
-Most occurences of accidents by general location
-Type of incidents (such as accident or construction)
-How many disabled vehicles tweets vs how many accidents tweets?
-How does week day traffic compare to weekend traffic?
+1. Most occurrences of accidents by time
+2. Most occurences of accidents by streets
+3. Most occurences of accidents by general location
+4. Type of incidents (such as accident or construction)
+5. How many disabled vehicles tweets vs how many accidents tweets?
+6. How does week day traffic compare to weekend traffic?
 
 ### Presentations
 - Bring a simple slide deck providing an overview of your results. You should present your results, a high level overview of the process used to achieve those results, and any assumptions and simplifications you made on the way to those results.
