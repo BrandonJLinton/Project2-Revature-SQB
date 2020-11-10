@@ -2,14 +2,21 @@
 
 # Project2-Revature-SQB
 
-### Project Questions
-1. What is the most talked about programming language by hashtags?
-2. Which programming language gets the most angry emojis or happy emojis?
-3. What is the most popular hashtag by month?
-4. What countries have the most popular hashtags?
-5.  Which tv shows are most talked about for each country (4-5) monthly by hashtags
-6. A ranking list for what day of each month the most tweets take place.
-7. Choose any form of products (4-5), then keep track of how many tweets mention that product each month for a year by hashtags.
+### Project Proposal
+Get a specified region to look at and follow a twitter account that tweets out traffic updates. We would filter by location, the type of update (accident, construction, etc), and its severity( rush hour timing). To make it presentable we can then have an image of that region and deploy a grid system on that image.the locations of that region we specify a point (x,y) coordinate. As soon as the tweet mentions something about that location it will receive a custom dot depending on type and severity. Each dot will be color coded depending on the type. Dot’s size shows severity. We can keep track for one day then reset the map.
+
+Assumptions:
+Having a specific region (NYC)
+Day by day analysis (24 hr period)
+Assuming disabled vehicles aren’t considered accidents
+
+Sample Questions:
+Most occurrences of accidents by time
+Most occurences of accidents by streets
+Most occurences of accidents by general location
+Type of incidents (such as accident or construction)
+How many disabled vehicles tweets vs how many accidents tweets?
+How does week day traffic compare to weekend traffic?
 
 ### Presentations
 - Bring a simple slide deck providing an overview of your results. You should present your results, a high level overview of the process used to achieve those results, and any assumptions and simplifications you made on the way to those results.
@@ -24,31 +31,5 @@
 - HDFS and/or S3
 - Scala 2.12.10
 - Git + GitHub
-- Due Date (11/23/20)
-
-
-## Assumptions and Simplifications
-Question 1: What is the most talked about programming language by hashtags?
-- 6 months worth of data
- 
-Question 2: Which programming language gets the most angry emojis or happy emojis?
-- 6 months worth of data
-- Country: US
- 
-Question 3: What is the most popular hashtag by month?
-- English only
-- 6 months worth of data
-
-Question 4: What countries have the most popular hashtags? 
-- Every month for 6 months
-- English hashtags only
-
-Question 5: Which tv shows are most talked about for each country (4-5) monthly by hashtags
-- US, AUS, BRA, CAN, MEX, UK, GER, FR, JAP, RSA
-- 1 month per country
-- Assuming API isn’t region locked?
-- Upto: 6 months
-
-Question 7: Choose any form of products (4-5), then keep track of how many tweets mention that product each month for a year by hashtags.
-- US products only
+- Due Date
 
