@@ -33,10 +33,17 @@ object IncidentTypes {
           case text if text.matches(".*?\\bStalled\\b.*?") => {"Disabled Vehicle"}
           case text if text.matches(".*?\\bOverturned\\svehicle\\b.*?") => {"Accident"}
           case text if text.matches(".*?\\bClosed\\sdue\\sto\\saccident\\b.*?") => {"Accident"}
-          case text if text.matches(".*?\\bClosed\\sdue\\sto\\b.*?") => {"Road Closed"}
+          case text if text.matches(".*?\\bRoad\\sclosed\\sdue\\sto\\b.*?") => {"Road Closed"}
+//          case text if text.matches(".*?\\bClosed\\sdue\\sto\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bThe\\sroad\\sis\\sclosed\\b.*?") => {"Road Closed"}
-          case text if text.matches(".*?\\bClosed\\sin\\b.*?") => {"Road Closed"}
+//          case text if text.matches(".*?\\bClosed\\sin\\b.*?") => {"Road Closed"}
+//          case text if text.matches(".*?\\bClosed\\sfor\\b.*?") => {"Road Closed"}
+          case text if text.matches(".*?\\bClosed\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bBlocked\\sdue\\sto\\b.*?") => {"Road Blocked"}
+          case text if text.matches(".*?\\bRoad\\sblocked\\sdue\\sto\\b.*?") => {"Road Blocked"}
+          case text if text.matches(".*?\\bRoad\\sconstruction\\b.*?") => {"Construction"}
+          case text if text.matches(".*?\\bConstruction\\b.*?") => {"Construction"}
+          case text if text.matches(".*?\\bBrush\\sfire\\b.*?") => {"Brush Fire"}
           case notFound => "Not Relevant"
         }
       })
@@ -54,6 +61,7 @@ object IncidentTypes {
       .orderBy(desc("incident_occ"))
   }
 
+  // Returns total incidents from GetIncidentTypesTotal along with an AVG based on 2 days for comparison
   def GetWeekendIncidentTypesTotalsWithAvg(spark : SparkSession, path : String) : Dataset[Row] = {
     GetFilteredIncidentTypes(spark, path)
       .groupBy("incident_type")
@@ -64,6 +72,7 @@ object IncidentTypes {
       .orderBy(desc("incident_occ_avg"))
   }
 
+  // Returns total incidents from GetIncidentTypesTotal along with an AVG based on 5 days for comparison
   def GetWeekdaysIncidentTypesTotalsWithAvg(spark : SparkSession, path : String) : Dataset[Row] = {
     GetFilteredIncidentTypes(spark, path)
       .groupBy("incident_type")
@@ -126,10 +135,17 @@ object IncidentTypes {
           case text if text.matches(".*?\\bStalled\\b.*?") => {"Disabled Vehicle"}
           case text if text.matches(".*?\\bOverturned\\svehicle\\b.*?") => {"Accident"}
           case text if text.matches(".*?\\bClosed\\sdue\\sto\\saccident\\b.*?") => {"Accident"}
+          case text if text.matches(".*?\\bRoad\\sclosed\\sdue\\sto\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bClosed\\sdue\\sto\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bThe\\sroad\\sis\\sclosed\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bClosed\\sin\\b.*?") => {"Road Closed"}
+          case text if text.matches(".*?\\bClosed\\sfor\\b.*?") => {"Road Closed"}
+          case text if text.matches(".*?\\bClosed\\b.*?") => {"Road Closed"}
           case text if text.matches(".*?\\bBlocked\\sdue\\sto\\b.*?") => {"Road Blocked"}
+          case text if text.matches(".*?\\bRoad\\sblocked\\sdue\\sto\\b.*?") => {"Road Blocked"}
+          case text if text.matches(".*?\\bRoad\\sconstruction\\b.*?") => {"Construction"}
+          case text if text.matches(".*?\\bConstruction\\b.*?") => {"Construction"}
+          case text if text.matches(".*?\\bBrush\\sfire\\b.*?") => {"Brush Fire"}
           case notFound => "Not Relevant"
         }
       })
