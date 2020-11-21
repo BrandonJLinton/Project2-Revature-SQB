@@ -91,6 +91,8 @@ Business day (8:00 AM - 5:00 PM) stream of NYC, PHL, HOU:
 
 		1. The General Location of where most accidents occur in each city. 
 		2. Comparing these cities to analyze the number of accidents that take place in each.
+		3. Analyze the number of non-accident activities for each city.
+		4. Compare the time an accident occurred to the time it was cleared.
 
 Syed -
 
