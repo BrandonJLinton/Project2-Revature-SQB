@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":177,"end":200,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":47,"end":70,"probability":0.6516,"type":"Place","normalized_text":"The Jackie Robinson Pkwy"},{"start":73,"end":77,"probability":0.7175,"type":"Place","normalized_text":"Bklyn"},{"start":97,"end":112,"probability":0.6012,"type":"Place","normalized_text":"Metropolitan Ave"}],"hashtags":[{"start":12,"end":19,"tag":"Queens"},{"start":168,"end":176,"tag":"traffic"}]},"created_at":"2020-11-20T17:00:43.000Z","id":"1329832054519967750","author_id":"42640432","text":"Accident in #Queens:OnTheJackieRobinsonPkwy on The Jackie Robinson Pkwy (Bklyn/SO. Queens) EB at Metropolitan Ave/Exit 6, stopped traffic back to Forest Park Dr/Exit 4 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":144,"end":167,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":63,"end":69,"probability":0.4582,"type":"Place","normalized_text":"96th St"}],"hashtags":[{"start":20,"end":37,"tag":"NycOnTheFdrDrive"},{"start":135,"end":143,"tag":"traffic"}]},"created_at":"2020-11-20T17:00:44.000Z","id":"1329832056768110594","author_id":"42640432","text":"Incident cleared in #NycOnTheFdrDrive on The FDR Dr SB between 96th St/x14 and 79th St, stopped traffic back to The RFK-Triboro Br/x17 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":178,"end":201,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":12,"end":38,"tag":"AreaOfTheThrogsNkBrQueens"},{"start":169,"end":177,"tag":"traffic"}]},"created_at":"2020-11-20T17:05:43.000Z","id":"1329833311418671108","author_id":"42640432","text":"Accident in #AreaOfTheThrogsNkBrQueens on I-295 (Throgs Neck Span OR Clearview Expwy) NB approaching The Throgs Neck Br/Bronx Side, stopped traffic back to 26th Ave/X6b #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}

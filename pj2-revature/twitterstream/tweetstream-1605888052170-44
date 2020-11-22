@@ -1,0 +1,30 @@
+
+
+
+{"data":{"entities":{"urls":[{"start":129,"end":152,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":12,"end":24,"tag":"LittleFalls"},{"start":120,"end":128,"tag":"traffic"}]},"created_at":"2020-11-20T22:25:43.000Z","id":"1329913843393425410","author_id":"42640432","text":"Accident in #LittleFalls on Rt-46 (US-46) WB at Browertown Rd/MC Bride Ave, stopped traffic back to Vly Rd/West Of Rt-3 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":130,"end":153,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":47,"end":61,"probability":0.8804,"type":"Place","normalized_text":"Franklin Cor Rd"},{"start":82,"end":95,"probability":0.6092,"type":"Place","normalized_text":"Princeton Pike"}],"hashtags":[{"start":31,"end":43,"tag":"LawrenceTwp"},{"start":121,"end":129,"tag":"traffic"}]},"created_at":"2020-11-20T22:25:44.000Z","id":"1329913845708632070","author_id":"249854777","text":"Roadway reduced to one lane in #LawrenceTwp on Franklin Cor Rd Both EB/WB between Princeton Pike and US 1/Brunswick Pike #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+{"data":{"entities":{"urls":[{"start":78,"end":101,"url":"https://t.co/8EsVejdQEd","expanded_url":"https://twitter.com/TotalTrafficPHL/status/1329913916168818689/photo/1","display_url":"pic.twitter.com/8EsVejdQEd"}],"annotations":[{"start":3,"end":10,"probability":0.9704,"type":"Place","normalized_text":"Delaware"}],"hashtags":[{"start":61,"end":77,"tag":"DelawareTraffic"}]},"created_at":"2020-11-20T22:26:00.000Z","id":"1329913916168818689","author_id":"249854777","text":"In Delaware, 95 SB jams approaching 141. Report of a crash.\n\n#DelawareTraffic https://t.co/8EsVejdQEd"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":126,"end":149,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":21,"end":31,"tag":"NewCastle"},{"start":117,"end":125,"tag":"traffic"}]},"created_at":"2020-11-20T22:30:43.000Z","id":"1329915101013536768","author_id":"249854777","text":"Accident reported in #NewCastle on I-95 SB approaching I-295/Hwy 141/Exit 5, jammed back to SR-4/Maryland Ave/Exit 6 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":90,"end":113,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":12,"end":20,"tag":"Wharton"},{"start":81,"end":89,"tag":"traffic"}]},"created_at":"2020-11-20T22:30:43.000Z","id":"1329915101479100417","author_id":"42640432","text":"Accident in #Wharton on I-80 WB at X34/Rt-15, stopped traffic back to X37/CR-513 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":126,"end":149,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":33,"end":44,"tag":"Morristown"},{"start":117,"end":125,"tag":"traffic"}]},"created_at":"2020-11-20T22:30:44.000Z","id":"1329915106466144257","author_id":"42640432","text":"Accident, center lane blocked in #Morristown on Rt-24/NJ WB at X1/CR-511, stopped traffic back to X2A/Columbia Tnpke #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+

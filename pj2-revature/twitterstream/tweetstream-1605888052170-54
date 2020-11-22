@@ -1,0 +1,30 @@
+{"data":{"entities":{"urls":[{"start":164,"end":187,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":47,"end":50,"probability":0.9388,"type":"Place","normalized_text":"U.S."},{"start":74,"end":84,"probability":0.9587,"type":"Place","normalized_text":"Belmont Ave"},{"start":90,"end":91,"probability":0.9176,"type":"Place","normalized_text":"PA"},{"start":143,"end":153,"probability":0.9047,"type":"Place","normalized_text":"Belmont Ave"}],"hashtags":[{"start":32,"end":43,"tag":"BalaCynwyd"},{"start":155,"end":163,"tag":"traffic"}]},"created_at":"2020-11-20T23:50:42.000Z","id":"1329935231575601153","author_id":"249854777","text":"Accident, right lane blocked in #BalaCynwyd on U.S. 1/City Ave SB between Belmont Ave and PA-23/Conshohocken State Rd, stopped traffic back to Belmont Ave #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":130,"end":153,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":33,"end":53,"probability":0.8657,"type":"Place","normalized_text":"The Garden State Pkwy"}],"hashtags":[{"start":20,"end":29,"tag":"Cranford"},{"start":121,"end":129,"tag":"traffic"}]},"created_at":"2020-11-20T23:50:42.000Z","id":"1329935231642710025","author_id":"42640432","text":"Accident cleared in #Cranford on The Garden State Pkwy NB after X137/Rt-28, stopped traffic back to X136/Raritan Rd (NB) #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":148,"end":171,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":55,"end":75,"probability":0.8389,"type":"Place","normalized_text":"Martin Luther King Dr"},{"start":96,"end":111,"probability":0.8241,"type":"Place","normalized_text":"Ben Franklin Pky"}],"hashtags":[{"start":38,"end":51,"tag":"Philadelphia"},{"start":139,"end":147,"tag":"traffic"}]},"created_at":"2020-11-20T23:50:43.000Z","id":"1329935233806897153","author_id":"249854777","text":"Closed for recreational activities in #Philadelphia on Martin Luther King Dr Both NB/SB between Ben Franklin Pky/Eakins Oval and Falls Brg #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":112,"end":135,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":47,"end":67,"probability":0.4657,"type":"Place","normalized_text":"E Sam Houston Tollway"}],"hashtags":[{"start":36,"end":43,"tag":"SeSide"},{"start":103,"end":111,"tag":"traffic"}]},"created_at":"2020-11-20T23:55:43.000Z","id":"1329936491531931648","author_id":"249818911","text":"Accident. right shoulder blocked in #SeSide on E Sam Houston Tollway SB after Hwy 3 / Old Galveston Rd #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+

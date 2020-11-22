@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":93,"end":116,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":36,"end":45,"tag":"WestSide"},{"start":84,"end":92,"tag":"traffic"}]},"created_at":"2020-11-20T21:45:43.000Z","id":"1329903776669593602","author_id":"249818911","text":"Accident. right shoulder blocked in #WestSide on I-10 Katy Fwy Outbound after Mason #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":106,"end":129,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":26,"end":38,"probability":0.6473,"type":"Place","normalized_text":"Hooper Ave NB"},{"start":52,"end":63,"probability":0.8837,"type":"Place","normalized_text":"Indian Hl Rd"}],"hashtags":[{"start":12,"end":22,"tag":"TomsRiver"},{"start":97,"end":105,"tag":"traffic"}]},"created_at":"2020-11-20T21:45:43.000Z","id":"1329903776942223362","author_id":"42640432","text":"Accident in #TomsRiver on Hooper Ave NB approaching Indian Hl Rd, stopped traffic back to Hwy 37 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":117,"end":140,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":31,"end":39,"tag":"Wanaque"},{"start":108,"end":116,"tag":"traffic"}]},"created_at":"2020-11-20T21:45:43.000Z","id":"1329903778166943747","author_id":"42640432","text":"Accident, two lanes blocked in #Wanaque on I-287 SB at x 55/Ringwood Av, stopped traffic back to X59/Rt-208 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

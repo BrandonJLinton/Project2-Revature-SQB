@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":111,"end":134,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":28,"end":42,"probability":0.9419,"type":"Place","normalized_text":"Franklin Cor Rd"},{"start":63,"end":76,"probability":0.7538,"type":"Place","normalized_text":"Princeton Pike"},{"start":82,"end":83,"probability":0.5544,"type":"Place","normalized_text":"US"}],"hashtags":[{"start":12,"end":24,"tag":"LawrenceTwp"},{"start":102,"end":110,"tag":"traffic"}]},"created_at":"2020-11-20T22:20:43.000Z","id":"1329912585253228544","author_id":"249854777","text":"Reopened in #LawrenceTwp on Franklin Cor Rd Both EB/WB between Princeton Pike and US 1/Brunswick Pike #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":175,"end":198,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":87,"end":109,"probability":0.9348,"type":"Place","normalized_text":"Glenn Curtiss Boulevard"},{"start":115,"end":127,"probability":0.9238,"type":"Place","normalized_text":"Uniondale Ave"},{"start":154,"end":164,"probability":0.9122,"type":"Place","normalized_text":"Merrick Ave"}],"hashtags":[{"start":40,"end":50,"tag":"Uniondale"},{"start":166,"end":174,"tag":"traffic"}]},"created_at":"2020-11-20T22:20:43.000Z","id":"1329912585110630401","author_id":"42640432","text":"Closed due to accident investigation in #Uniondale on Rt-24/Hempstead Tnpke WB between Glenn Curtiss Boulevard and Uniondale Ave, stopped traffic back to Merrick Ave #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":170,"end":193,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":87,"end":99,"probability":0.8695,"type":"Place","normalized_text":"Uniondale Ave"},{"start":105,"end":127,"probability":0.9411,"type":"Place","normalized_text":"Glenn Curtiss Boulevard"},{"start":154,"end":159,"probability":0.6214,"type":"Place","normalized_text":"Oak St"}],"hashtags":[{"start":40,"end":50,"tag":"Uniondale"},{"start":161,"end":169,"tag":"traffic"}]},"created_at":"2020-11-20T22:20:44.000Z","id":"1329912588218601477","author_id":"42640432","text":"Closed due to accident investigation in #Uniondale on Rt-24/Hempstead Tnpke EB between Uniondale Ave and Glenn Curtiss Boulevard, stopped traffic back to Oak St #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+

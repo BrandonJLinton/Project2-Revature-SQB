@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":90,"end":113,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":33,"end":42,"tag":"WestSide"},{"start":81,"end":89,"tag":"traffic"}]},"created_at":"2020-11-20T21:10:43.000Z","id":"1329894969520304132","author_id":"249818911","text":"Accident, three lanes blocked in #WestSide on I-10 Katy Fwy Outbound after Mason #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":127,"end":150,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":31,"end":44,"tag":"WestPaterson"},{"start":118,"end":126,"tag":"traffic"}]},"created_at":"2020-11-20T21:10:43.000Z","id":"1329894969642016769","author_id":"42640432","text":"Accident, two lanes blocked in #WestPaterson on I-80 WB at X56/Squirrelwood Rd, stopped traffic back to x59/Market St #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":85,"end":108,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":36,"end":46,"tag":"Meyerland"},{"start":76,"end":84,"tag":"traffic"}]},"created_at":"2020-11-20T21:10:44.000Z","id":"1329894972024303619","author_id":"249818911","text":"Accident. right shoulder blocked in #Meyerland on I-610 W Lp SB at Beechnut #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":178,"end":201,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":32,"end":41,"tag":"Magnolia"},{"start":169,"end":177,"tag":"traffic"}]},"created_at":"2020-11-20T21:15:43.000Z","id":"1329896228503564296","author_id":"249854777","text":"Accident, right lane blocked in #Magnolia on Rt-30 (White Horse Pk) EB between CR-669/N Warwick Rd and CR-544/Evesham Rd, stopped traffic back to CR-659/Gloucester Pike #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":199,"end":222,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":44,"end":60,"probability":0.8186,"type":"Place","normalized_text":"Garden State Pkwy"}],"hashtags":[{"start":32,"end":40,"tag":"Marmora"},{"start":190,"end":198,"tag":"traffic"}]},"created_at":"2020-11-20T21:15:44.000Z","id":"1329896230621732864","author_id":"249854777","text":"Accident, right lane blocked in #Marmora on Garden State Pkwy NB between Rt-52/Ocean City/Somers Point/Exit 30 and US-40/US-322/Exit 36, jammed back to Rt-52/Ocean City/Somers Point/Exit 30 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+

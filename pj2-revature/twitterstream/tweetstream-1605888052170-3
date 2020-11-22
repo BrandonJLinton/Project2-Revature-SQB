@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":141,"end":164,"url":"https://t.co/NBievEwnX1","expanded_url":"https://twitter.com/TotalTrafficPHL/status/1329823110057631745/photo/1","display_url":"pic.twitter.com/NBievEwnX1"}],"annotations":[{"start":3,"end":24,"probability":0.5116,"type":"Place","normalized_text":"Bucks County, Rt. 1 NB"},{"start":45,"end":52,"probability":0.7591,"type":"Place","normalized_text":"Turnpike"},{"start":57,"end":82,"probability":0.9072,"type":"Place","normalized_text":"Rockhill Dr. Construction"}],"hashtags":[{"start":110,"end":124,"tag":"PhillyTraffic"},{"start":125,"end":140,"tag":"BucksRoadAlert"}]},"created_at":"2020-11-20T16:25:11.000Z","id":"1329823110057631745","author_id":"249854777","text":"In Bucks County, Rt. 1 NB is jammed from the Turnpike to Rockhill Dr.  Construction takes out the left lane.\n\n#PhillyTraffic\n#BucksRoadAlert https://t.co/NBievEwnX1"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+{"data":{"entities":{"urls":[{"start":173,"end":196,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":31,"end":38,"tag":"Rahway"},{"start":164,"end":172,"tag":"traffic"}]},"created_at":"2020-11-20T16:25:43.000Z","id":"1329823247030956033","author_id":"42640432","text":"Accident, two lanes blocked in #Rahway on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB before CR-13/Grand Ave, stopped traffic back to Pleasant St #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":96,"end":119,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":48,"end":58,"tag":"NorthSide"},{"start":87,"end":95,"tag":"traffic"}]},"created_at":"2020-11-20T16:25:43.000Z","id":"1329823247043538944","author_id":"249818911","text":"Reported accident on the entrance ramp to 45 in #NorthSide on 610 N Lp WB at The N Fwy #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+

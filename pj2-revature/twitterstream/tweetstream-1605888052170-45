@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":104,"end":127,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":44,"end":53,"tag":"EastSide"},{"start":95,"end":103,"tag":"traffic"}]},"created_at":"2020-11-20T22:35:42.000Z","id":"1329916357337550849","author_id":"249818911","text":"Object on roadway blocking left shoulder in #EastSide on I-610 N Lp EB before Mccarty / Hwy 90 #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":85,"end":108,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"hashtags":[{"start":33,"end":42,"tag":"EastSide"},{"start":76,"end":84,"tag":"traffic"}]},"created_at":"2020-11-20T22:40:43.000Z","id":"1329917619357495297","author_id":"249818911","text":"Accident, three lanes blocked in #EastSide on I-610 N Lp EB before Gellhorn #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":166,"end":189,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":65,"end":84,"probability":0.6043,"type":"Place","normalized_text":"Cross Bronx Expwy SB"}],"hashtags":[{"start":32,"end":41,"tag":"TheBronx"},{"start":157,"end":165,"tag":"traffic"}]},"created_at":"2020-11-20T22:40:43.000Z","id":"1329917619516870660","author_id":"42640432","text":"Accident, right lane blocked in #TheBronx:OnTheCrossBronxExpy on Cross Bronx Expwy SB approaching 3rd Ave/x3 (SB), stopped traffic back to Castle Hl Ave/x5B #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":151,"end":174,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":37,"end":47,"tag":"NewCastle"},{"start":142,"end":150,"tag":"traffic"}]},"created_at":"2020-11-20T22:40:43.000Z","id":"1329917619516936198","author_id":"249854777","text":"Accident. two right lanes blocked in #NewCastle on I-95 SB approaching I-295/Hwy 141/Exit 5, stopped traffic back to SR-4/Maryland Ave/Exit 6 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":133,"end":156,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":41,"end":42,"probability":0.6834,"type":"Place","normalized_text":"NY"},{"start":65,"end":66,"probability":0.5015,"type":"Place","normalized_text":"NY"}],"hashtags":[{"start":12,"end":21,"tag":"Fishkill"},{"start":124,"end":132,"tag":"traffic"}]},"created_at":"2020-11-20T22:40:45.000Z","id":"1329917624893976579","author_id":"42640432","text":"Accident in #Fishkill on I-84 WB between NY Rt-52/X44 and before NY Rt-9D/NY Rt-52/X41, stopped traffic back to US Rt-9/x46 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+

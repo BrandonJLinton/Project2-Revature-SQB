@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":139,"end":162,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":108,"end":128,"probability":0.5235,"type":"Place","normalized_text":"The Garden State Pkwy"}],"hashtags":[{"start":31,"end":44,"tag":"WestPaterson"},{"start":130,"end":138,"tag":"traffic"}]},"created_at":"2020-11-20T21:35:43.000Z","id":"1329901258761768963","author_id":"42640432","text":"Accident, two lanes blocked in #WestPaterson on I-80 WB at X56/Squirrelwood Rd, stopped traffic back to x62/The Garden State Pkwy #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":141,"end":164,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":81,"end":94,"probability":0.8042,"type":"Place","normalized_text":"Sunnyside Blvd"}],"hashtags":[{"start":31,"end":41,"tag":"Plainview"},{"start":132,"end":140,"tag":"traffic"}]},"created_at":"2020-11-20T21:35:46.000Z","id":"1329901272175177731","author_id":"42640432","text":"Accident, left lane blocked in #Plainview on The L.I.E./I-495 WB approaching X46/Sunnyside Blvd, stopped traffic back to X49/Rt-110 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":112,"end":135,"url":"https://t.co/cLJ9IKJQWV","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":12,"end":24,"tag":"Farmingdale"},{"start":103,"end":111,"tag":"traffic"}]},"created_at":"2020-11-20T21:40:43.000Z","id":"1329902518059499520","author_id":"42640432","text":"Accident in #Farmingdale on Rt-34 SB approaching Rt-33/CR-547/Asbury Rd, stopped traffic back to Rt-33 #traffic https://t.co/cLJ9IKJQWV"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":153,"end":176,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":44,"end":67,"probability":0.2917,"type":"Place","normalized_text":"NJ Tnpke Eastern Spur NB"},{"start":81,"end":90,"probability":0.6284,"type":"Place","normalized_text":"Seaview Dr"}],"hashtags":[{"start":31,"end":40,"tag":"Secaucus"},{"start":144,"end":152,"tag":"traffic"}]},"created_at":"2020-11-20T21:40:43.000Z","id":"1329902520433565696","author_id":"42640432","text":"Accident, left lane blocked in #Secaucus on NJ Tnpke Eastern Spur NB approaching Seaview Dr/Exit 15X, stopped traffic back to x15E/Truck Rt-1/9 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":98,"end":121,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":12,"end":19,"tag":"Howell"},{"start":89,"end":97,"tag":"traffic"}]},"created_at":"2020-11-20T21:40:44.000Z","id":"1329902522639773696","author_id":"42640432","text":"Accident in #Howell on Rt-33 EB approaching Rt-34, stopped traffic back to Colts Neck Rd #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+

@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":139,"end":162,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":56,"end":70,"probability":0.9258,"type":"Place","normalized_text":"Franklin Cor Rd"},{"start":91,"end":104,"probability":0.7954,"type":"Place","normalized_text":"Princeton Pike"},{"start":110,"end":111,"probability":0.6148,"type":"Place","normalized_text":"US"}],"hashtags":[{"start":40,"end":52,"tag":"LawrenceTwp"},{"start":130,"end":138,"tag":"traffic"}]},"created_at":"2020-11-20T19:15:43.000Z","id":"1329866027157622785","author_id":"249854777","text":"Road closed due to broken water main in #LawrenceTwp on Franklin Cor Rd Both EB/WB between Princeton Pike and US 1/Brunswick Pike #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":89,"end":112,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":41,"end":61,"probability":0.6772,"type":"Place","normalized_text":"N Sam Houston Tollway"}],"hashtags":[{"start":25,"end":37,"tag":"Greenspoint"},{"start":80,"end":88,"tag":"traffic"}]},"created_at":"2020-11-20T19:15:43.000Z","id":"1329866027207958534","author_id":"249818911","text":"Accident on exit ramp in #Greenspoint on N Sam Houston Tollway EB at I-45 N Fwy #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":143,"end":166,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":56,"end":57,"probability":0.8527,"type":"Place","normalized_text":"NJ"}],"hashtags":[{"start":41,"end":52,"tag":"Hightstown"},{"start":134,"end":142,"tag":"traffic"}]},"created_at":"2020-11-20T19:15:43.000Z","id":"1329866029946859521","author_id":"249854777","text":"Overturned vehicle, left lane blocked in #Hightstown on NJ Tnpke Truck Lanes/Outer Roadway SB between RT-133/Exit 8 and I-195/Exit 7A #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":130,"end":153,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":57,"end":66,"probability":0.7404,"type":"Place","normalized_text":"New Jersey"}],"hashtags":[{"start":41,"end":53,"tag":"Robinsville"},{"start":116,"end":119,"tag":"7A"},{"start":121,"end":129,"tag":"traffic"}]},"created_at":"2020-11-20T19:20:43.000Z","id":"1329867285515952132","author_id":"249854777","text":"Overturned vehicle, two lanes blocked in #Robinsville on New Jersey Tpke SB between #8(Hightstown/Rt 33) and I-195 (#7A) #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}

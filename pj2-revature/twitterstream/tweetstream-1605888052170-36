@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":146,"end":169,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":55,"end":76,"probability":0.5962,"type":"Place","normalized_text":"NEW YORK STATE THRUWAY"}],"hashtags":[{"start":42,"end":51,"tag":"Harriman"},{"start":137,"end":145,"tag":"traffic"}]},"created_at":"2020-11-20T21:20:43.000Z","id":"1329897485716901893","author_id":"42640432","text":"Road blocked due to overturned vehicle in #Harriman on NEW YORK STATE THRUWAY/I-87 NB between N of Exit 16 and before X17/I-84/NY Rt 300 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":196,"end":219,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":64,"end":83,"probability":0.4808,"type":"Place","normalized_text":"Cross Bronx Expwy NB"},{"start":101,"end":116,"probability":0.7774,"type":"Place","normalized_text":"Bronx River Pkwy"},{"start":118,"end":129,"probability":0.6748,"type":"Place","normalized_text":"Rosedale Ave"}],"hashtags":[{"start":31,"end":40,"tag":"TheBronx"},{"start":187,"end":195,"tag":"traffic"}]},"created_at":"2020-11-20T21:20:44.000Z","id":"1329897488027947008","author_id":"42640432","text":"Accident, two lanes blocked in #TheBronx:OnTheCrossBronxExpy on Cross Bronx Expwy NB approaching The Bronx River Pkwy/Rosedale Ave/x4B, stopped traffic back to The Alexander Hamilton Brg #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

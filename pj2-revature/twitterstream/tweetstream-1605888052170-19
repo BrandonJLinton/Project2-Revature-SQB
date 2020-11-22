@@ -1,0 +1,30 @@
+
+{"data":{"entities":{"urls":[{"start":103,"end":126,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":27,"end":48,"probability":0.621,"type":"Place","normalized_text":"Burlington Bristol Brg"},{"start":82,"end":92,"probability":0.5576,"type":"Place","normalized_text":"Beachway Rd"}],"hashtags":[{"start":12,"end":23,"tag":"Burlington"},{"start":94,"end":102,"tag":"traffic"}]},"created_at":"2020-11-20T18:45:43.000Z","id":"1329858479864111108","author_id":"249854777","text":"Reopened in #Burlington on Burlington Bristol Brg Both NB/SB between Toll Plz and Beachway Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":128,"end":151,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":66,"end":76,"probability":0.8934,"type":"Place","normalized_text":"Little York"},{"start":107,"end":116,"probability":0.9655,"type":"Place","normalized_text":"Tidwell Rd"}],"hashtags":[{"start":20,"end":30,"tag":"NorthSide"},{"start":119,"end":127,"tag":"traffic"}]},"created_at":"2020-11-20T18:45:45.000Z","id":"1329858484993744897","author_id":"249818911","text":"Accident cleared in #NorthSide on I-45 N Fwy Outbound approaching Little York, stop and go traffic back to Tidwell Rd. #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":164,"end":187,"url":"https://t.co/Mbq7zrOZKa","expanded_url":"https://twitter.com/TotalTrafficPHL/status/1329859743876337668/photo/1","display_url":"pic.twitter.com/Mbq7zrOZKa"},{"start":164,"end":187,"url":"https://t.co/Mbq7zrOZKa","expanded_url":"https://twitter.com/TotalTrafficPHL/status/1329859743876337668/photo/1","display_url":"pic.twitter.com/Mbq7zrOZKa"}],"annotations":[{"start":3,"end":14,"probability":0.9436,"type":"Place","normalized_text":"Bucks County"},{"start":53,"end":62,"probability":0.9614,"type":"Place","normalized_text":"Bristol Rd"}],"hashtags":[{"start":133,"end":147,"tag":"PhillyTraffic"},{"start":148,"end":163,"tag":"BucksRoadAlert"}]},"created_at":"2020-11-20T18:50:45.000Z","id":"1329859743876337668","author_id":"249854777","text":"In Bucks County, 202 is CLOSED in BOTH directions at Bristol Rd. due to a crash investigation.  You'll be detoured around the scene\n\n#PhillyTraffic\n#BucksRoadAlert https://t.co/Mbq7zrOZKa"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+

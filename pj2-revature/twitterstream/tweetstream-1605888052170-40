@@ -1,0 +1,30 @@
+{"data":{"entities":{"urls":[{"start":125,"end":148,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":97,"end":104,"probability":0.6621,"type":"Place","normalized_text":"Monmouth"}],"hashtags":[{"start":31,"end":41,"tag":"Eatontown"},{"start":116,"end":124,"tag":"traffic"}]},"created_at":"2020-11-20T21:50:43.000Z","id":"1329905034826543105","author_id":"42640432","text":"Accident, left lane blocked in #Eatontown on Rt-36 WB approaching Rt-35, stopped traffic back to Monmouth Rd/ Rt 71 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":110,"end":133,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":33,"end":44,"tag":"Christiana"},{"start":94,"end":100,"tag":"NetDE"},{"start":101,"end":109,"tag":"traffic"}]},"created_at":"2020-11-20T21:50:43.000Z","id":"1329905036080590854","author_id":"249854777","text":"Accident, center lane blocked in #Christiana on Churchmans Rd SB at Rt-7/Staton Christiana Rd #NetDE #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":165,"end":188,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":139,"end":150,"probability":0.8518,"type":"Place","normalized_text":"Raymond Blvd"}],"hashtags":[{"start":31,"end":38,"tag":"Newark"},{"start":156,"end":164,"tag":"traffic"}]},"created_at":"2020-11-20T21:50:43.000Z","id":"1329905036202303490","author_id":"42640432","text":"Accident, left lane blocked in #Newark on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB at Delancy St, stopped traffic back to Raymond Blvd #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":162,"end":185,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":31,"end":41,"tag":"Blackwood"},{"start":153,"end":161,"tag":"traffic"}]},"created_at":"2020-11-20T21:55:43.000Z","id":"1329906292274638849","author_id":"249854777","text":"Accident, left lane blocked in #Blackwood on Rt-42 SB between Blackwood-Clementon Rd/Exit 8 and College Dr, jammed back to Blackwood-Clementon Rd/Exit 8 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":127,"end":150,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":101,"end":108,"probability":0.5341,"type":"Place","normalized_text":"Park Ave"}],"hashtags":[{"start":32,"end":41,"tag":"OceanTwp"},{"start":118,"end":126,"tag":"traffic"}]},"created_at":"2020-11-20T21:55:43.000Z","id":"1329906292610174977","author_id":"42640432","text":"Accident, right lane blocked in #OceanTwp on Rt-18 SB after Deal Rd/Exit 11, stopped traffic back to Park Ave/Exit 12 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+

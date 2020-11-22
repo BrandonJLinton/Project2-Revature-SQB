@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "text": "Closed in #SanBruno on Hwy 35/Skyline Blvd NB between W San Bruno Av1 and Sneath Ln #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T22:30:44.000Z",
+      "author_id": "88956948",
+      "id": "1326653613884796928",
+      "entities": {
+        "urls": [
+          {
+            "start": 102,
+            "end": 125,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 10,
+            "end": 19,
+            "tag": "SanBruno"
+          },
+          {
+            "start": 84,
+            "end": 92,
+            "tag": "BayArea"
+          },
+          {
+            "start": 93,
+            "end": 101,
+            "tag": "Traffic"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Closed in #SanBruno on Hwy 35/Skyline Blvd SB between Sneath Ln and W San Bruno Av1 #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T22:30:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 54,
+            "end": 62,
+            "probability": 0.4238,
+            "type": "Place",
+            "normalized_text": "Sneath Ln"
+          }
+        ],
+        "urls": [
+          {
+            "start": 102,
+            "end": 125,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 10,
+            "end": 19,
+            "tag": "SanBruno"
+          },
+          {
+            "start": 84,
+            "end": 92,
+            "tag": "BayArea"
+          },
+          {
+            "start": 93,
+            "end": 101,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326653612504838149"
+    },
+    {
+      "text": "Accident, left lane blocked in #SanJose on I-280 NB at 7th St, stopped traffic back to 680/101 #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T17:25:44.000Z",
+      "author_id": "88956948",
+      "id": "1326576857186267137",
+      "entities": {
+        "urls": [
+          {
+            "start": 113,
+            "end": 136,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 31,
+            "end": 39,
+            "tag": "SanJose"
+          },
+          {
+            "start": 95,
+            "end": 103,
+            "tag": "BayArea"
+          },
+          {
+            "start": 104,
+            "end": 112,
+            "tag": "Traffic"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Accident, right lane blocked in #Belmont on US-101 SB at Ralston Ave/Marine Pkwy, stopped traffic back to 92 #BayArea #Traffic https://t.co/pmlOhZdgyh",
+      "created_at": "2020-11-11T15:40:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 45,
+            "probability": 0.9547,
+            "type": "Place",
+            "normalized_text": "US"
+          },
+          {
+            "start": 57,
+            "end": 79,
+            "probability": 0.5984,
+            "type": "Place",
+            "normalized_text": "Ralston Ave/Marine Pkwy"
+          }
+        ],
+        "urls": [
+          {
+            "start": 127,
+            "end": 150,
+            "url": "https://t.co/pmlOhZdgyh",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 32,
+            "end": 40,
+            "tag": "Belmont"
+          },
+          {
+            "start": 109,
+            "end": 117,
+            "tag": "BayArea"
+          },
+          {
+            "start": 118,
+            "end": 126,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326550431254786054"
+    },
+    {
+      "text": "Tree on fire---off ramp closed in #SanJose on I-680 SB at Capitol Expy #BayArea #Traffic https://t.co/pmlOhZdgyh",
+      "created_at": "2020-11-11T14:45:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 58,
+            "end": 69,
+            "probability": 0.7822,
+            "type": "Place",
+            "normalized_text": "Capitol Expy"
+          }
+        ],
+        "urls": [
+          {
+            "start": 89,
+            "end": 112,
+            "url": "https://t.co/pmlOhZdgyh",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 34,
+            "end": 42,
+            "tag": "SanJose"
+          },
+          {
+            "start": 71,
+            "end": 79,
+            "tag": "BayArea"
+          },
+          {
+            "start": 80,
+            "end": 88,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326536588772352005"
+    },
+    {
+      "text": "Two lanes blocked in #Oakland on I-580 EB before 35th Ave, stopped traffic back to Fruitvale Ave #BayArea #Traffic https://t.co/pmlOhZdgyh",
+      "created_at": "2020-11-11T14:40:44.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 49,
+            "end": 56,
+            "probability": 0.7978,
+            "type": "Place",
+            "normalized_text": "35th Ave"
+          },
+          {
+            "start": 83,
+            "end": 95,
+            "probability": 0.9361,
+            "type": "Place",
+            "normalized_text": "Fruitvale Ave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 115,
+            "end": 138,
+            "url": "https://t.co/pmlOhZdgyh",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 21,
+            "end": 29,
+            "tag": "Oakland"
+          },
+          {
+            "start": 97,
+            "end": 105,
+            "tag": "BayArea"
+          },
+          {
+            "start": 106,
+            "end": 114,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326535334293770240"
+    },
+    {
+      "text": "Stall---wb lane blocked in #DiscoveryBay on CA-4 WB before Old River #BayArea #Traffic https://t.co/pmlOhZdgyh",
+      "created_at": "2020-11-11T14:40:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 45,
+            "probability": 0.8333,
+            "type": "Place",
+            "normalized_text": "CA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/pmlOhZdgyh",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 27,
+            "end": 40,
+            "tag": "DiscoveryBay"
+          },
+          {
+            "start": 69,
+            "end": 77,
+            "tag": "BayArea"
+          },
+          {
+            "start": 78,
+            "end": 86,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326535332381171715"
+    },
+    {
+      "text": "Two lanes blocked in #Oakland on I-580 EB before 35th Ave, stopped traffic back to Fruitvale Ave #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T14:20:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 49,
+            "end": 56,
+            "probability": 0.7978,
+            "type": "Place",
+            "normalized_text": "35th Ave"
+          },
+          {
+            "start": 83,
+            "end": 95,
+            "probability": 0.9361,
+            "type": "Place",
+            "normalized_text": "Fruitvale Ave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 115,
+            "end": 138,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 21,
+            "end": 29,
+            "tag": "Oakland"
+          },
+          {
+            "start": 97,
+            "end": 105,
+            "tag": "BayArea"
+          },
+          {
+            "start": 106,
+            "end": 114,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326530298587340801"
+    },
+    {
+      "text": "Stall---wb lane blocked in #DiscoveryBay on CA-4 WB before Old River #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T14:20:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 44,
+            "end": 45,
+            "probability": 0.8333,
+            "type": "Place",
+            "normalized_text": "CA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 27,
+            "end": 40,
+            "tag": "DiscoveryBay"
+          },
+          {
+            "start": 69,
+            "end": 77,
+            "tag": "BayArea"
+          },
+          {
+            "start": 78,
+            "end": 86,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326530297308078081"
+    },
+    {
+      "text": "Three lanes blocked in #Oakland on I-580 EB before 35th Ave, stopped traffic back to Fruitvale Ave #BayArea #Traffic https://t.co/pmlOhZuRWR",
+      "created_at": "2020-11-11T14:15:43.000Z",
+      "author_id": "88956948",
+      "entities": {
+        "annotations": [
+          {
+            "start": 51,
+            "end": 58,
+            "probability": 0.7991,
+            "type": "Place",
+            "normalized_text": "35th Ave"
+          },
+          {
+            "start": 85,
+            "end": 97,
+            "probability": 0.9359,
+            "type": "Place",
+            "normalized_text": "Fruitvale Ave"
+          }
+        ],
+        "urls": [
+          {
+            "start": 117,
+            "end": 140,
+            "url": "https://t.co/pmlOhZuRWR",
+            "expanded_url": "http://bit.ly/YAIxih",
+            "display_url": "bit.ly/YAIxih",
+            "status": 200,
+            "title": "Sigalert",
+            "description": "San Francisco traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Bay Bridge, Golden Gate Bridge, and other key routes. Email or text traffic alerts on your personalized routes.",
+            "unwound_url": "https://www.sigalert.com/Map.asp?region=San+Francisco"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 23,
+            "end": 31,
+            "tag": "Oakland"
+          },
+          {
+            "start": 99,
+            "end": 107,
+            "tag": "BayArea"
+          },
+          {
+            "start": 108,
+            "end": 116,
+            "tag": "Traffic"
+          }
+        ]
+      },
+      "id": "1326529039381778436"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "88956948",
+        "username": "TotalTrafficSF",
+        "name": "TTWN SF Bay Area",
+        "created_at": "2009-11-10T15:59:33.000Z"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1326653613884796928",
+    "oldest_id": "1326529039381778436",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fosbuo1mfvf50jrqisyb0v345fan3x"
+  }
+}

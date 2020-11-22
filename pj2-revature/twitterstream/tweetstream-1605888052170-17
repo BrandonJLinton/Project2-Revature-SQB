@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":108,"end":131,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":32,"end":53,"probability":0.6035,"type":"Place","normalized_text":"Burlington Bristol Brg"}],"hashtags":[{"start":17,"end":28,"tag":"Burlington"},{"start":99,"end":107,"tag":"traffic"}]},"created_at":"2020-11-20T18:30:43.000Z","id":"1329854703321092102","author_id":"249854777","text":"Bridge closed in #Burlington on Burlington Bristol Brg Both NB/SB between Toll Plz and Beachway Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":110,"end":133,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":84,"end":96,"probability":0.8145,"type":"Place","normalized_text":"Dairy Ashford"}],"hashtags":[{"start":39,"end":48,"tag":"WestSide"},{"start":101,"end":109,"tag":"traffic"}]},"created_at":"2020-11-20T18:30:43.000Z","id":"1329854704470388736","author_id":"249818911","text":"Stalled vehicle blocks a right lane in #WestSide on The Westpark Tollway Inbound at Dairy Ashford St #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":73,"end":96,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":32,"end":34,"probability":0.7559,"type":"Place","normalized_text":"Hwy"}],"hashtags":[{"start":21,"end":28,"tag":"Harris"},{"start":64,"end":72,"tag":"traffic"}]},"created_at":"2020-11-20T18:30:44.000Z","id":"1329854706387218434","author_id":"249818911","text":"Reported accident in #Harris on Hwy 99 WB approaching TX-146-BR #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":117,"end":140,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":96,"end":106,"probability":0.8882,"type":"Place","normalized_text":"Spg Cypress"}],"hashtags":[{"start":53,"end":60,"tag":"NwSide"},{"start":108,"end":116,"tag":"traffic"}]},"created_at":"2020-11-20T18:35:43.000Z","id":"1329855961012580353","author_id":"249818911","text":"Accident blocks a right lane and a right shoulder in #NwSide on Hwy 249/Tomball Pkwy Inbound at Spg Cypress #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+

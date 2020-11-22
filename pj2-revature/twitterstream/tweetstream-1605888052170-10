@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":149,"end":172,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":57,"end":74,"probability":0.7247,"type":"Place","normalized_text":"Vine St Expressway"}],"hashtags":[{"start":40,"end":53,"tag":"Philadelphia"},{"start":140,"end":148,"tag":"traffic"}]},"created_at":"2020-11-20T17:30:43.000Z","id":"1329839603679956992","author_id":"249854777","text":"Disabled vehicle, right lane blocked in #Philadelphia on Vine St Expressway/ I-676 WB from 8th St to Broad St, stopped traffic back to I-95 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":205,"end":228,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":39,"end":65,"tag":"AreaOfTheThrogsNkBrQueens"},{"start":196,"end":204,"tag":"traffic"}]},"created_at":"2020-11-20T17:30:43.000Z","id":"1329839604204253196","author_id":"42640432","text":"Disabled vehicle, left lane blocked in #AreaOfTheThrogsNkBrQueens on I-295 (Throgs Neck Span OR Clearview Expwy) NB approaching The Throgs Neck Br/Bronx Side, stopped traffic back to 35th Ave/X6a #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+

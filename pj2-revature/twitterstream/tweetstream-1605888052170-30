@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":134,"end":157,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":51,"end":66,"probability":0.819,"type":"Place","normalized_text":"Rockaway Blvd EB"},{"start":76,"end":95,"probability":0.9828,"type":"Place","normalized_text":"Brookville Boulevard"},{"start":101,"end":106,"probability":0.9497,"type":"Place","normalized_text":"Nassau"},{"start":108,"end":118,"probability":0.6204,"type":"Place","normalized_text":"Queens Cnty"}],"hashtags":[{"start":40,"end":47,"tag":"Queens"},{"start":125,"end":133,"tag":"traffic"}]},"created_at":"2020-11-20T20:30:43.000Z","id":"1329884902565834753","author_id":"42640432","text":"Closed due to accident investigation in #Queens on Rockaway Blvd EB between Brookville Boulevard and Nassau/Queens Cnty Line #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":108,"end":131,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":35,"end":44,"probability":0.8036,"type":"Place","normalized_text":"Bristol Rd"}],"hashtags":[{"start":20,"end":31,"tag":"Doylestown"},{"start":99,"end":107,"tag":"traffic"}]},"created_at":"2020-11-20T20:30:43.000Z","id":"1329884902330953728","author_id":"249854777","text":"Accident cleared in #Doylestown on Bristol Rd Both NB/SB between Lower State Rd and Upper State Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":177,"end":200,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":51,"end":66,"probability":0.6992,"type":"Place","normalized_text":"Rockaway Blvd WB"},{"start":76,"end":95,"probability":0.9794,"type":"Place","normalized_text":"Brookville Boulevard"},{"start":101,"end":117,"probability":0.8388,"type":"Place","normalized_text":"Guy R Brewer Blvd"},{"start":144,"end":149,"probability":0.9251,"type":"Place","normalized_text":"Nassau"},{"start":151,"end":161,"probability":0.5,"type":"Place","normalized_text":"Queens Cnty"}],"hashtags":[{"start":40,"end":47,"tag":"Queens"},{"start":168,"end":176,"tag":"traffic"}]},"created_at":"2020-11-20T20:30:44.000Z","id":"1329884905547894784","author_id":"42640432","text":"Closed due to accident investigation in #Queens on Rockaway Blvd WB between Brookville Boulevard and Guy R Brewer Blvd, stopped traffic back to Nassau/Queens Cnty Line #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":103,"end":126,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":33,"end":34,"probability":0.9585,"type":"Place","normalized_text":"US"},{"start":54,"end":55,"probability":0.6499,"type":"Place","normalized_text":"PA"}],"hashtags":[{"start":20,"end":29,"tag":"Chalfont"},{"start":94,"end":102,"tag":"traffic"}]},"created_at":"2020-11-20T20:30:44.000Z","id":"1329884906864975874","author_id":"249854777","text":"Accident cleared in #Chalfont on US-202 Both NB/SB at PA-152/Limekiln Pike and Lower State Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
