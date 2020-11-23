@@ -49,11 +49,19 @@ streaming on a business day to perform live analysis.
 
 	- Incident related keyword (Excluding Accidents):
 		• Bridge Closed
+<<<<<<< HEAD
         • Road Closed
 		• Ramp Restriction
 		• Off-Ramp Blocked/Closed
         • On-Ramp Blocked/Closed
 		• Disable Vehicle
+=======
+      	• Road Closed
+			• Ramp Restriction
+			• Off-Ramp Blocked/Closed
+        • On-Ramp Blocked/Closed
+			• Disable Vehicle
+>>>>>>> syed-master
         • Stalled Vehicle
         • Brush Fire
 
@@ -89,10 +97,17 @@ Quan -
 
 Business day (8:00 AM - 5:00 PM) stream of NYC, PHL, HOU:
 
+<<<<<<< HEAD
 		1. The General Location of where most accidents occur in each city. 
 		2. Comparing these cities to analyze the number of accidents that take place in each.
 		3. Analyze the number of non-accident activities for each city.
 		4. Compare the time an accident occurred to the time it was cleared.
+=======
+	1. The General Location of where most accidents occur in each city. 
+	2. Comparing these cities to analyze the number of accidents that take place in each.
+	3. Analyze the number of non-accident activities for each city.
+	4. Compare the time an accident occurred to the time it was cleared.
+>>>>>>> syed-master
 
 Syed -
 
