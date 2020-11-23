@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":87,"end":110,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":31,"end":32,"probability":0.9733,"type":"Place","normalized_text":"US"},{"start":65,"end":76,"probability":0.6761,"type":"Place","normalized_text":"Clayton Pkwy"}],"hashtags":[{"start":20,"end":27,"tag":"Humble"},{"start":78,"end":86,"tag":"traffic"}]},"created_at":"2020-11-20T23:45:43.000Z","id":"1329933974605623296","author_id":"249818911","text":"Accident cleared in #Humble on US-69 Eastex Fwy Outbound at Will Clayton Pkwy #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":166,"end":189,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":140,"end":151,"probability":0.8561,"type":"Place","normalized_text":"Raymond Blvd"}],"hashtags":[{"start":31,"end":38,"tag":"Newark"},{"start":157,"end":165,"tag":"traffic"}]},"created_at":"2020-11-20T23:45:43.000Z","id":"1329933974362353666","author_id":"42640432","text":"Accident, left lane blocked in #Newark on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB at Frontage Rd, stopped traffic back to Raymond Blvd #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

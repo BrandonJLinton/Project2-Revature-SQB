@@ -1,0 +1,30 @@
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":97,"end":120,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":44,"end":64,"probability":0.6514,"type":"Place","normalized_text":"S Sam Houston Tollway"}],"hashtags":[{"start":30,"end":40,"tag":"SouthSide"},{"start":88,"end":96,"tag":"traffic"}]},"created_at":"2020-11-21T00:10:42.000Z","id":"1329940265256226816","author_id":"249818911","text":"Accident. one lane blocked in #SouthSide on S Sam Houston Tollway WB at The SE Toll Plz #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":85,"end":108,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":20,"end":31,"tag":"Wilmington"},{"start":76,"end":84,"tag":"traffic"}]},"created_at":"2020-11-21T00:10:43.000Z","id":"1329940267038879745","author_id":"249854777","text":"Accident cleared in #Wilmington on I-95 SB approaching I-295/Hwy 141/Exit 5 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

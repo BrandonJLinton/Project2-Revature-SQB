@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":107,"end":130,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":61,"end":78,"probability":0.8439,"type":"Place","normalized_text":"Wallkill Rest Area"},{"start":84,"end":85,"probability":0.6807,"type":"Place","normalized_text":"NY"}],"hashtags":[{"start":32,"end":41,"tag":"Wallkill"},{"start":98,"end":106,"tag":"traffic"}]},"created_at":"2020-11-20T19:30:43.000Z","id":"1329869803562086402","author_id":"42640432","text":"Accident, right lane blocked in #Wallkill on I-84 EB between Wallkill Rest Area and NY Rt-208/X28 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":77,"end":100,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":20,"end":32,"tag":"HopewellTwp"},{"start":68,"end":76,"tag":"traffic"}]},"created_at":"2020-11-20T19:30:43.000Z","id":"1329869803469877250","author_id":"249854777","text":"Off-ramp blocked in #HopewellTwp on I-295 NB between Rt-29 /Exit 76 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":119,"end":142,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":46,"end":55,"probability":0.5743,"type":"Place","normalized_text":"New Jersey"}],"hashtags":[{"start":30,"end":42,"tag":"Robinsville"},{"start":105,"end":108,"tag":"7A"},{"start":110,"end":118,"tag":"traffic"}]},"created_at":"2020-11-20T19:35:43.000Z","id":"1329871061425549312","author_id":"249854777","text":"Accident, shoulder blocked in #Robinsville on New Jersey Tpke SB between #8(Hightstown/Rt 33) and I-195 (#7A) #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":226,"end":249,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":137,"end":144,"probability":0.6143,"type":"Place","normalized_text":"Broadway"}],"hashtags":[{"start":40,"end":51,"tag":"JerseyCity"},{"start":217,"end":225,"tag":"traffic"}]},"created_at":"2020-11-20T19:35:43.000Z","id":"1329871061677125638","author_id":"42640432","text":"Road construction, right lane closed in #JerseyCity on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB between Pulaski Skwy At Broadway and S Kearny/Central Ave, stopped traffic back to The Tonnelle Cir #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+

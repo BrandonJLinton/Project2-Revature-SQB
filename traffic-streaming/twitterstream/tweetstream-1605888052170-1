@@ -1,0 +1,29 @@
+
+{"data":{"entities":{"urls":[{"start":143,"end":166,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":90,"end":95,"probability":0.8222,"type":"Place","normalized_text":"Taylor"},{"start":126,"end":132,"probability":0.7456,"type":"Place","normalized_text":"Heights"}],"hashtags":[{"start":52,"end":61,"tag":"Downtown"},{"start":134,"end":142,"tag":"traffic"}]},"created_at":"2020-11-20T16:00:43.000Z","id":"1329816955507904514","author_id":"249818911","text":"Accident blocks 3 left lanes and a left shoulder in #Downtown on I-10 Katy Fwy Inbound at Taylor, stop and go traffic back to Heights #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":80,"end":103,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":38,"end":58,"probability":0.5694,"type":"Place","normalized_text":"N Sam Houston Pkwy EB"}],"hashtags":[{"start":27,"end":34,"tag":"NwSide"},{"start":71,"end":79,"tag":"traffic"}]},"created_at":"2020-11-20T16:00:44.000Z","id":"1329816958024421376","author_id":"249818911","text":"Accident blocks he ramp in #NwSide on N Sam Houston Pkwy EB at Hwy 249 #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

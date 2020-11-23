@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":189,"end":212,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":55,"end":76,"probability":0.587,"type":"Place","normalized_text":"NEW YORK STATE THRUWAY"}],"hashtags":[{"start":42,"end":51,"tag":"Harriman"},{"start":180,"end":188,"tag":"traffic"}]},"created_at":"2020-11-20T17:55:43.000Z","id":"1329845896037720064","author_id":"42640432","text":"Road blocked due to overturned vehicle in #Harriman on NEW YORK STATE THRUWAY/I-87 NB between N of Exit 16 and X17/I-84/NY Rt 300, stopped traffic back to X16/Woodbury Tolls/Rt-17 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":120,"end":143,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":53,"end":72,"probability":0.4651,"type":"Place","normalized_text":"Flourtown Rd Both EB"},{"start":85,"end":95,"probability":0.9251,"type":"Place","normalized_text":"Butler Pike"},{"start":101,"end":109,"probability":0.7648,"type":"Place","normalized_text":"Joshua Rd"}],"hashtags":[{"start":35,"end":49,"tag":"WhitemarshTwp"},{"start":111,"end":119,"tag":"traffic"}]},"created_at":"2020-11-20T17:55:43.000Z","id":"1329845896398376965","author_id":"249854777","text":"Closed due to road construction in #WhitemarshTwp on Flourtown Rd Both EB/WB between Butler Pike and Joshua Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+{"data":{"entities":{"urls":[{"start":174,"end":197,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":21,"end":28,"tag":"Linden"},{"start":165,"end":173,"tag":"traffic"}]},"created_at":"2020-11-20T17:55:44.000Z","id":"1329845900252999688","author_id":"42640432","text":"Construction work in #Linden on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB between Ave C and CR-13/Grand Ave, stopped traffic back to Pleasant St #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":192,"end":215,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"hashtags":[{"start":39,"end":46,"tag":"Linden"},{"start":183,"end":191,"tag":"traffic"}]},"created_at":"2020-11-20T18:00:43.000Z","id":"1329847155327193088","author_id":"42640432","text":"Road construction, two lanes closed in #Linden on Rt 1-9 (Including Pulaski Skwy &amp; Covered Rdway/Rt-139) SB between Ave C and CR-13/Grand Ave, stopped traffic back to Pleasant St #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":131,"end":154,"url":"https://t.co/cLJ9IKsg5n","expanded_url":"http://bit.ly/11xKLzq","display_url":"bit.ly/11xKLzq","status":200,"title":"Sigalert","description":"New York traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on bridge and tunnel crossings, the LIE, the New Jersey Turnpike and other routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=New+York"}],"annotations":[{"start":60,"end":71,"probability":0.443,"type":"Place","normalized_text":"Belt Pkwy EB"},{"start":110,"end":117,"probability":0.5253,"type":"Place","normalized_text":"Bay Pkwy"}],"hashtags":[{"start":33,"end":42,"tag":"Brooklyn"},{"start":122,"end":130,"tag":"traffic"}]},"created_at":"2020-11-20T18:00:44.000Z","id":"1329847158212866048","author_id":"42640432","text":"Prohibited vehicle on roadway in #Brooklyn:OnTheBeltPkwy on Belt Pkwy EB at Shell Rd, stopped traffic back to Bay Pkwy/x5 #traffic https://t.co/cLJ9IKsg5n"},"includes":{"users":[{"username":"TotalTrafficNYC","created_at":"2009-05-26T14:58:42.000Z","id":"42640432","name":"Total Traffic NYC"}]},"matching_rules":[{"id":1329232498975408131,"tag":""}]}

@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":146,"end":169,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":82,"end":92,"probability":0.5888,"type":"Place","normalized_text":"Belmont Ave"}],"hashtags":[{"start":31,"end":40,"tag":"Gladwyne"},{"start":137,"end":145,"tag":"traffic"}]},"created_at":"2020-11-20T18:20:44.000Z","id":"1329852189414748160","author_id":"249854777","text":"Accident, left lane blocked in #Gladwyne on I-76 EB between Gladwyne/Exit 337 and Belmont Ave/Exit 338, jammed back to Gladwyne/Exit 337 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":135,"end":158,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"hashtags":[{"start":20,"end":29,"tag":"Gladwyne"},{"start":126,"end":134,"tag":"traffic"}]},"created_at":"2020-11-20T18:25:43.000Z","id":"1329853444971241473","author_id":"249854777","text":"Accident cleared in #Gladwyne on I-76 EB between Gladwyne/Exit 337 and Belmont Ave/Exit 338, jammed back to Gladwyne/Exit 337 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":88,"end":111,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":24,"end":37,"probability":0.7791,"type":"Place","normalized_text":"Stewart Ave SB"}],"hashtags":[{"start":10,"end":20,"tag":"RidleyTwp"},{"start":79,"end":87,"tag":"traffic"}]},"created_at":"2020-11-20T20:45:43.000Z","id":"1329888676038455297","author_id":"249854777","text":"Closed in #RidleyTwp on Stewart Ave SB between I-95 and Hwy 291/Industrial Hwy #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":84,"end":107,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":41,"end":42,"probability":0.9721,"type":"Place","normalized_text":"US"}],"hashtags":[{"start":30,"end":37,"tag":"SwSide"},{"start":75,"end":83,"tag":"traffic"}]},"created_at":"2020-11-20T20:45:43.000Z","id":"1329888676021669888","author_id":"249818911","text":"Accident. one lane blocked in #SwSide on US-69 SW Fwy Outbound at Weslayan #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":110,"end":133,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":70,"end":77,"probability":0.5839,"type":"Place","normalized_text":"Grubb Rd"}],"hashtags":[{"start":26,"end":37,"tag":"BeaconHill"},{"start":101,"end":109,"tag":"traffic"}]},"created_at":"2020-11-20T20:45:43.000Z","id":"1329888678915805190","author_id":"249854777","text":"Closed due to accident in #BeaconHill on Rt-261 [Foulk Rd] NB between Grubb Rd and Hwy 92/Naamans Rd #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+

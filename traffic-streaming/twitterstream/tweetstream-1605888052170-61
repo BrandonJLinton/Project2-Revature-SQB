@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":101,"end":124,"url":"https://t.co/BtegSRDq7m","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":72,"end":83,"probability":0.7401,"type":"Place","normalized_text":"Terminal Ave"}],"hashtags":[{"start":45,"end":56,"tag":"Wilmington"},{"start":92,"end":100,"tag":"traffic"}]},"created_at":"2020-11-21T01:00:43.000Z","id":"1329952851624218624","author_id":"249854777","text":"Off ramp is closed due to police activity in #Wilmington on I-495 NB at Terminal Ave/Exit 2 #traffic https://t.co/BtegSRDq7m"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":138,"end":161,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":37,"end":39,"probability":0.6283,"type":"Place","normalized_text":"Hwy"}],"hashtags":[{"start":26,"end":33,"tag":"Manvel"},{"start":129,"end":137,"tag":"traffic"}]},"created_at":"2020-11-21T01:00:43.000Z","id":"1329952851729281024","author_id":"249818911","text":"Closed due to accident in #Manvel on Hwy 288 Outbound between CR 101/Bailey Rd. and Croix Rd, stopped traffic back to Cnty Rd 59 #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":122,"end":145,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":61,"end":70,"probability":0.8054,"type":"Place","normalized_text":"Westheimer"},{"start":101,"end":111,"probability":0.8104,"type":"Place","normalized_text":"Memorial Dr"}],"hashtags":[{"start":31,"end":40,"tag":"WestSide"},{"start":113,"end":121,"tag":"traffic"}]},"created_at":"2020-11-21T01:00:44.000Z","id":"1329952854245773314","author_id":"249818911","text":"Accident, two lanes blocked in #WestSide on I-610 W Lp SB at Westheimer, stop and go traffic back to Memorial Dr #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":156,"end":179,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":54,"end":74,"probability":0.6238,"type":"Place","normalized_text":"N Sam Houston Pkwy EB"},{"start":86,"end":96,"probability":0.4341,"type":"Place","normalized_text":"Eastex Frwy"},{"start":127,"end":145,"probability":0.7843,"type":"Place","normalized_text":"John F Kennedy Blvd"}],"hashtags":[{"start":36,"end":50,"tag":"NortheastSide"},{"start":147,"end":155,"tag":"traffic"}]},"created_at":"2020-11-21T01:00:44.000Z","id":"1329952856288473096","author_id":"249818911","text":"Accident. connector ramp blocked in #NortheastSide on N Sam Houston Pkwy EB at 59 The Eastex Frwy, stop and go traffic back to John F Kennedy Blvd #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+

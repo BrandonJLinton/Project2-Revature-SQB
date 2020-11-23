@@ -1,0 +1,30 @@
+{"data":{"entities":{"urls":[{"start":139,"end":162,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":47,"end":67,"probability":0.5067,"type":"Place","normalized_text":"Pennsylvania Tnpke EB"},{"start":77,"end":88,"probability":0.9887,"type":"Place","normalized_text":"Willow Grove"},{"start":101,"end":108,"probability":0.815,"type":"Place","normalized_text":"Bensalem"},{"start":110,"end":121,"probability":0.7754,"type":"Place","normalized_text":"Philadelphia"}],"hashtags":[{"start":31,"end":43,"tag":"WillowGrove"},{"start":130,"end":138,"tag":"traffic"}]},"created_at":"2020-11-21T00:45:43.000Z","id":"1329949074343256065","author_id":"249854777","text":"Accident, left lane blocked in #WillowGrove on Pennsylvania Tnpke EB between Willow Grove (#343) and Bensalem/Philadelphia (#351) #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":101,"end":124,"url":"https://t.co/BtegSRlPfO","expanded_url":"http://bit.ly/10F7buB","display_url":"bit.ly/10F7buB","status":200,"title":"Sigalert","description":"Philadelphia traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on 95, the Schuylkill and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Philadelphia"}],"annotations":[{"start":72,"end":83,"probability":0.7401,"type":"Place","normalized_text":"Terminal Ave"}],"hashtags":[{"start":45,"end":56,"tag":"Wilmington"},{"start":92,"end":100,"tag":"traffic"}]},"created_at":"2020-11-21T00:45:43.000Z","id":"1329949077312778240","author_id":"249854777","text":"Off ramp is closed due to police activity in #Wilmington on I-495 NB at Terminal Ave/Exit 2 #traffic https://t.co/BtegSRlPfO"},"includes":{"users":[{"username":"TotalTrafficPHL","created_at":"2011-02-09T22:44:21.000Z","id":"249854777","name":"TTWN Philadelphia"}]},"matching_rules":[{"id":1329232498975408132,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"entities":{"urls":[{"start":81,"end":104,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":61,"end":70,"probability":0.5547,"type":"Place","normalized_text":"Westheimer"}],"hashtags":[{"start":31,"end":40,"tag":"WestSide"},{"start":72,"end":80,"tag":"traffic"}]},"created_at":"2020-11-21T00:50:43.000Z","id":"1329950335037812753","author_id":"249818911","text":"Accident, two lanes blocked in #WestSide on I-610 W Lp SB at Westheimer #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+{"data":{"entities":{"urls":[{"start":94,"end":117,"url":"https://t.co/vuUN2yElDh","expanded_url":"http://bit.ly/17hsIjn","display_url":"bit.ly/17hsIjn","status":200,"title":"Sigalert","description":"Houston traffic reports. Real-time speeds, accidents, and traffic cameras. Check conditions on the Gulf Freeway, Westpark Tollway, and other key routes. Email or text traffic alerts on your personalized routes.","unwound_url":"https://www.sigalert.com/Map.asp?region=Houston"}],"annotations":[{"start":47,"end":67,"probability":0.5601,"type":"Place","normalized_text":"W Sam Houston Tollway"}],"hashtags":[{"start":36,"end":43,"tag":"SwSide"},{"start":85,"end":93,"tag":"traffic"}]},"created_at":"2020-11-21T00:50:44.000Z","id":"1329950336333864960","author_id":"249818911","text":"Accident. right shoulder blocked in #SwSide on W Sam Houston Tollway NB at Bissonnet #traffic https://t.co/vuUN2yElDh"},"includes":{"users":[{"username":"TotalTrafficHOU","created_at":"2011-02-09T21:09:17.000Z","id":"249818911","name":"TTN Houston"}]},"matching_rules":[{"id":1329231462659280897,"tag":""}]}
+
+
+
+
+
+
+
+
+
+
+
